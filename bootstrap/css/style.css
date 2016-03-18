@@ -22,10 +22,20 @@
 ========================= */
 .jumbotron {
   text-align: center;
+  color: white;
 }
 
 /* Carousel
 ========================= */
+
+.carousel {
+  background-image: url(../../img/rockies.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-size: cover;
+
+}
+
 .carousel-indicators {
   bottom: 0;
 }
